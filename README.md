@@ -1,4 +1,4 @@
-# ProjectEuler-
+# ProjectEuler+
 ###A repository recording my progress through the ProjectEuler+ problems on HackerRank
 
 As the title and sub-title suggest, this repository is a collection of my solutions to the Project Euler problems, as they are posed on HackerRank.
